@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - [PHP Bulletin Board Forum](https://bbs-queen.neant.be/)
 - [DevRestaurant - Wordpress Theme](https://www.devrest.me/)
 - [Pomodoro React Apps](https://pomodoro.neant.be/)
-- [BattleTree - NODEjs/React Games](http://battletree.neant.be/)
+- [BattleTree - Node.js/React Games App](http://battletree.neant.be/)
 - [My Codepen](https://codepen.io/freecey)
 - [My NPM Package](https://www.npmjs.com/~freecey)
 
