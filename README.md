@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
 
 <br />
+
 ___
 
 <details>
