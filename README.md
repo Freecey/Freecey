@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
 <img align="left" alt="MariaSQL" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mariadb-logo-vert_blue-transparent.png" />
 <img align="left" alt="MongoDB" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb.png" />
-<img align="left" alt="Docker" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker_(container_engine)_logo.svg" />
-<img align="left" alt="Hyper-V" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/hyper-v.png" />
+<img align="left" alt="Docker" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker-Logo-White-RGB_Vertical-BG_0.png" />
+<img align="left" alt="Hyper-V" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Hyper-V-2014.png" />
 
 <br />
 
