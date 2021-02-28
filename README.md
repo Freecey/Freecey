@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <img align="left" alt="NPM" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Npm-logo.svg" />
 <img align="left" alt="Ubuntu" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/ubuntu-logo.png" />
 
-
+<br />
+<br />
 
 <img align="left" alt="HTML5" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS3" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/CSS3_logo_and_wordmark.svg" />
@@ -35,14 +36,15 @@ Here are some ideas to get you started:
 <img align="left" alt="React" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/React-icon.svg" />
 <img align="left" alt="Node.js" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
 
-
+<br />
+<br />
 
 <img align="left" alt="MariaSQL" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mysql-mariadb.png" />
 <img align="left" alt="MongoDB" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb-png.png" />
 <img align="left" alt="Docker" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker-Logo-White-RGB_Vertical-BG_0.png" />
 <img align="left" alt="Hyper-V" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Hyper-V2.jpg" />
 
-
+<br />
 <br />
 
 ### Some of my projects
