@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Javascript-shield.svg" />
 <img align="left" alt="PHP" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/PHP-logo.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/React-icon.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svgg" />
+<img align="left" alt="Node.js" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
 <img align="left" alt="MariaSQL" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mariadb-logo-vert_blue-transparent.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb.png" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker_(container_engine)_logo.svg" />
