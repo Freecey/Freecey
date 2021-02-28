@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/vscode.png" />
 <img align="left" alt="NPM" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Npm-logo.svg" />
 <img align="left" alt="Ubuntu" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/ubuntu-logo.png" />
+
 <br />
 <img align="left" alt="HTML5" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/HTML5_logo_and_wordmark.svg" />
 <img align="left" alt="CSS3" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/CSS3_logo_and_wordmark.svg" />
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/PHP-logo.svg" />
 <img align="left" alt="React" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/React-icon.svg" />
 <img align="left" alt="Node.js" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
+
 <br />
 <img align="left" alt="MariaSQL" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mysql-mariadb.png" />
 <img align="left" alt="MongoDB" height="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb-png.png" />
