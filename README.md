@@ -1,5 +1,7 @@
 ### Hi there, I'm Cedric 👋
 
+
+Passionate about IT, I particularly like discovering and mastering new technologies to carry out my projects and find innovative solutions. 
 <!--
 **Freecey/Freecey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
