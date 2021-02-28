@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/CSS3_logo_and_wordmark.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Javascript-shield.svg" />
-<img align="left" alt="PHP" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/PHP-logo.svg" />
-<img align="left" alt="React" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/React-icon.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
-<img align="left" alt="MariaSQL" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mariadb-logo-vert_blue-transparent.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker_(container_engine)_logo.svg" />
-<img align="left" alt="Hyper-V" width="26px" src="https://github.com/Freecey/Freecey/raw/master/img/hyper-v.png" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+<img align="left" alt="HTML5" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/HTML5_logo_and_wordmark.svg" />
+<img align="left" alt="CSS3" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="JavaScript" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Javascript-shield.svg" />
+<img align="left" alt="PHP" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/PHP-logo.svg" />
+<img align="left" alt="React" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/React-icon.svg" />
+<img align="left" alt="Node.js" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Node.js_logo.svg" />
+<img align="left" alt="MariaSQL" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mariadb-logo-vert_blue-transparent.png" />
+<img align="left" alt="MongoDB" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/mongodb.png" />
+<img align="left" alt="Docker" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/Docker_(container_engine)_logo.svg" />
+<img align="left" alt="Hyper-V" height="26px" src="https://github.com/Freecey/Freecey/raw/master/img/hyper-v.png" />
 
 <br />
 
