@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 
 ### Let's talk together
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
-
+[<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
+[<img align="left" alt="Mail-Me | Mail-Me" width="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mail-square-social-media-512.webp" />][Mail-me]
 <br />
 
 ___
@@ -65,3 +65,4 @@ ___
 </details>
 
 [linkedin]: https://www.linkedin.com/in/cedric-audrit/
+[Mail-me]: mailto:cedric@audrit.be
