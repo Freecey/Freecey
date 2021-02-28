@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Let's talk together
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
-
-<br />
-
 ### Languages and Tools
 
 > SOON
@@ -37,7 +32,13 @@ Here are some ideas to get you started:
 - [My NPM Package](https://www.npmjs.com/~freecey)
 
 <br />
----
+
+### Let's talk together
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
+
+<br />
+
+___
 
 <details>
   <summary>:zap: GitHub Stats</summary>
