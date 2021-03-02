@@ -54,6 +54,11 @@ Here are some ideas to get you started:
 - [My NPM Package](https://www.npmjs.com/~freecey)
 
 
+### My Gitlab
+
+https://gitlab.yana.xyz/cedric
+
+
 ### Let's talk together
 [<img align="left" alt="holisitc_developer | LinkedIn" width="30px" src="https://github.com/Freecey/Freecey/raw/master/img/Linkedin_icon.svg" />][linkedin]
 [<img align="left" alt="Mail-Me | Mail-Me" width="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mail-square-social-media-512.webp" />][Mail-me]
