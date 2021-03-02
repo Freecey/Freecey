@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 ### My Gitlab
 
-https://gitlab.yana.xyz/cedric
+<img align="left" alt="Node.js" height="30px" src="https://github.com/Freecey/Freecey/blob/master/img/GitLab_Logo.svg.png" /> https://gitlab.yana.xyz/cedric
 
 
 ### Let's talk together
