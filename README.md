@@ -4,6 +4,10 @@
 Passionate about IT, I particularly like discovering and mastering new technologies to carry out my projects and find innovative solutions. 
 
 ___
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freecey&hide_border=true&layout=compact&theme=dark)
+
+___
 <!--
 **Freecey/Freecey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -64,9 +68,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Mail-Me | Mail-Me" width="30px" src="https://github.com/Freecey/Freecey/raw/master/img/mail-square-social-media-512.webp" />][Mail-me]
 <br />
 
-___
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freecey&hide_border=true&layout=compact&theme=dark)
 
 ___
 <details>
