@@ -70,12 +70,15 @@ Here are some ideas to get you started:
 
 
 ___
+
+![Top Languages](https://github-readme-stats.vercel.app/api?username=freecey&show_icons=true&hide_border=true&layout=compact&theme=dark)
+
+<!--
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Freecey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=freecey&show_icons=true&hide_border=true" />
-
 </details>
+-->
 <!--
 <details>
   <summary>:zap: Most Used Languages</summary>
