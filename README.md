@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 <br /><br />
 
+---
+
 ### Some of my projects
 - [My CV](https://www.audrit.be/)
 - [PHP Bulletin Board Forum](https://bbs-queen.neant.be/)
