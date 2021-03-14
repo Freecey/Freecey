@@ -5,8 +5,8 @@ Passionate about IT, I particularly like discovering and mastering new technolog
 
 ___
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freecey&hide_border=true&layout=compact&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api?username=freecey&show_icons=true&hide_border=true&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freecey&hide_border=true&layout=compact&theme=dark)
 
 ___
 <!--
