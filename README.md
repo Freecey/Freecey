@@ -66,19 +66,21 @@ Here are some ideas to get you started:
 
 ___
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=freecey&hide_border=true&layout=compact&theme=dark)
+
+___
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Freecey's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=freecey&show_icons=true&hide_border=true" />
 
 </details>
-
+<!--
 <details>
   <summary>:zap: Most Used Languages</summary>
-
 <img align="left" alt="Freecey's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freecey" />
-
 </details>
+-->
 
 [linkedin]: https://www.linkedin.com/in/cedric-audrit/
 [Mail-me]: mailto:cedric@audrit.be
