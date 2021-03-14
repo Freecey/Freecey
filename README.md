@@ -1,3 +1,4 @@
+<html>
 <body style="background-color:#0d1117;">
 ### Hi there, I'm Cedric 👋
 
@@ -91,3 +92,4 @@ ___
 [Mail-me]: mailto:cedric@audrit.be
 
 </body>
+</html>
