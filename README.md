@@ -1,3 +1,4 @@
+<body style="background-color:#0d1117;">
 ### Hi there, I'm Cedric 👋
 
 
@@ -88,3 +89,5 @@ ___
 
 [linkedin]: https://www.linkedin.com/in/cedric-audrit/
 [Mail-me]: mailto:cedric@audrit.be
+
+</body>
