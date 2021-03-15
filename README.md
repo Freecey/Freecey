@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---
 
 ### Some of my projects
-- [My CV](https://www.audrit.be/)
+- [My CV - Wordpress Theme](https://www.audrit.be/)
 - [PHP Bulletin Board Forum](https://bbs-queen.neant.be/)
 - [DevRestaurant - Wordpress Theme](https://www.devrest.me/)
 - [Pomodoro React Apps](https://pomodoro.neant.be/)
