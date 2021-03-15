@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - [DevRestaurant - Wordpress Theme](https://www.devrest.me/)
 - [Pomodoro React Apps](https://pomodoro.neant.be/)
 - [BattleTree - Node.js/React Games App](http://battletree.neant.be/)
+- [Neant.be - Symfony5 PHP blog](http://www.neant.be/)
 - [My Codepen](https://codepen.io/freecey)
 - [My NPM Package](https://www.npmjs.com/~freecey)
 
