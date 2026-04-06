@@ -28,12 +28,4 @@ from legacy systems to cutting-edge LLMs.
 
 ---
 
-## 🤖 Currently exploring
-
-- Local LLM inference — LM Studio, llama.cpp, GGUF / quantization formats
-- On-device image generation — ComfyUI on Apple Silicon (Mac mini M4 · 24 GB)
-- AI agent workflows & prompt engineering
-
----
-
 > Keep it simple. Make it work. Understand why.
